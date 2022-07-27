@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mb82fAoZeYbWj5EYh8YIhpL9Tugt51c+bIvu+QoLY046XYZvrtU2TGMUHQkGXIlhT4PRLqr1QKSpvfFhkJgwsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ceccleston\\DatingApp\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ceccleston\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ceccleston\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ceccleston\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ceccleston\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ceccleston\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ceccleston\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
